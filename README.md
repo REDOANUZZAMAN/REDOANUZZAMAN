@@ -1,17 +1,37 @@
-# 💫 Hi 👋, I'm Redoanuzzaman
-**A passionate Software Engineer || AI Automation Engineer from Bangladesh**
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:f5576c,100:4facfe&height=350&section=header&text=REDOANUZZAMAN&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%20SOFTWARE%20ENGINEER%20||%20AI%20AUTOMATION%20ENGINEER%20&descSize=25&descAlignY=65" />
+</div>
 
-*Bridging code, creativity, and automation.*
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=2000&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=200&lines=🌟+TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY;💎+PREMIUM+AI+AUTOMATION+SOLUTIONS;⚡+NEXT-GENERATION+SOFTWARE+ARCHITECTURE;🔥+BRIDGING+CODE+%7C+CREATIVITY+%7C+INNOVATION)
 
 I'm a passionate and dedicated creative designer, specializing in n8n, LangChain, LangFlow, Zapier, and website development—turning ideas into seamless digital experiences.
 
 Email Me 👉 ✉️ **redoanuzzaman707@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+
+<div align="center">
+
+```ascii
+╭───────────────────────────────────────────────────────────╮
+│  ██████╗ ███████╗██████╗  ██████╗  █████╗ ███╗   ██╗     │
+│  ██╔══██╗██╔════╝██╔══██╗██╔═══██╗██╔══██╗████╗  ██║     │
+│  ██████╔╝█████╗  ██║  ██║██║   ██║███████║██╔██╗ ██║     │
+│  ██╔══██╗██╔══╝  ██║  ██║██║   ██║██╔══██║██║╚██╗██║     │
+│  ██║  ██║███████╗██████╔╝╚██████╔╝██║  ██║██║ ╚████║     │
+│  ╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝     │
+╰───────────────────────────────────────────────────────────╯
+```
+
+</div>
 
 ## 🔗 I am a Content Creator. 😊😊
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
 [![RedoanTech YouTube Channel](https://img.shields.io/badge/YouTube-RedoanTech-red?logo=youtube&logoColor=white)](https://www.youtube.com/redoantech) [![ByteVia Instagram](https://img.shields.io/badge/Instagram-ByteVia-pink?logo=instagram&logoColor=white)](https://www.instagram.com/bytevia2.0) [![Redoanuzzaman Facebook](https://img.shields.io/badge/Facebook-Redoanuzzaman-blue?logo=facebook&logoColor=white)](https://www.facebook.com/redoanuzzaman.mahim.0) [![Redoanuzzaman LinkedIn](https://img.shields.io/badge/LinkedIn-Redoanuzzaman-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redoanuzzaman)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌟 Specialization
 
@@ -103,3 +123,5 @@ If you've found my content helpful — tutorials, code, or videos — and want t
 
 ---
 ⭐️ From [REDOANUZZAMAN](https://github.com/REDOANUZZAMAN)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:f5576c,100:4facfe&height=200&section=footer&text=THANK%20YOU%20FOR%20VISITING!&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=70" />
