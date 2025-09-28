@@ -7,6 +7,10 @@
 
 I'm a passionate and dedicated creative designer, specializing in n8n, LangChain, LangFlow, Zapier, and website development—turning ideas into seamless digital experiences.
 
+<br>
+  🎓 Studying Software Engineering at <a href="https://en.scu.edu.cn/"> Sichuan University.</a>
+  <br>
+  
 🌐 **Visit My Website:** [redoan.dev](https://redoan.dev) | Email Me 👉 ✉️ **redoanuzzaman707@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 <div align="center">
