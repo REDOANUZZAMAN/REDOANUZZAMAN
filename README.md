@@ -2,6 +2,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:f093fb,75:f5576c,100:4facfe&height=350&section=header&text=REDOANUZZAMAN&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%20SOFTWARE%20ENGINEER%20||%20AI%20AUTOMATION%20ENGINEER%20&descSize=25&descAlignY=65" />
 </div>
 
+</div>
+<div align ="center">
+<img src="https://komarev.com/ghpvc/?username=REDOANUZZAMAN&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&duration=2000&pause=800&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=1200&height=200&lines=🌟+TRANSFORMING+IDEAS+INTO+DIGITAL+REALITY;💎+PREMIUM+AI+AUTOMATION+SOLUTIONS;⚡+NEXT-GENERATION+SOFTWARE+ARCHITECTURE;🔥+BRIDGING+CODE+%7C+CREATIVITY+%7C+INNOVATION)
 
@@ -26,10 +30,7 @@ I'm a passionate and dedicated creative designer, specializing in n8n, LangChain
 ╰───────────────────────────────────────────────────────────╯
 ```
 
-</div>
-<div align ="center">
-<img src="https://komarev.com/ghpvc/?username=REDOANUZZAMAN&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+
 ## 🔗 I am a Content Creator. 😊😊
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
