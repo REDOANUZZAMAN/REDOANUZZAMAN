@@ -195,8 +195,7 @@ If you've found my content helpful — tutorials, code, or videos — and want t
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=REDOANUZZAMAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ---
 ⭐️ From [REDOANUZZAMAN](https://github.com/REDOANUZZAMAN)
