@@ -35,7 +35,7 @@ I'm a passionate and dedicated creative designer, specializing in n8n, LangChain
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
-[![RedoanTech YouTube Channel](https://img.shields.io/badge/YouTube-RedoanTech-red?logo=youtube&logoColor=white)](https://www.youtube.com/redoantech) [![ByteVia Instagram](https://img.shields.io/badge/Instagram-ByteVia-pink?logo=instagram&logoColor=white)](https://www.instagram.com/bytevia2.0) [![Redoanuzzaman Facebook](https://img.shields.io/badge/Facebook-Redoanuzzaman-blue?logo=facebook&logoColor=white)](https://www.facebook.com/redoanuzzaman.mahim.0) [![Redoanuzzaman LinkedIn](https://img.shields.io/badge/LinkedIn-Redoanuzzaman-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redoanuzzaman)
+[![RedoanTech YouTube Channel](https://img.shields.io/badge/YouTube-RedoanTech-red?logo=youtube&logoColor=white)](https://www.youtube.com/redoantech) [![ByteVia Instagram](https://img.shields.io/badge/Instagram-ByteVia-pink?logo=instagram&logoColor=white)](https://www.instagram.com/bytevia2.0) [![Redoanuzzaman Facebook](https://img.shields.io/badge/Facebook-Redoanuzzaman-blue?logo=facebook&logoColor=white)](https://www.facebook.com/redoanuzzaman.mahim.1) [![Redoanuzzaman LinkedIn](https://img.shields.io/badge/LinkedIn-Redoanuzzaman-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/redoanuzzaman)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
