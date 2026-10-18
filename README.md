@@ -49,6 +49,18 @@ Stay updated with the latest tutorials and projects by subscribing to my YouTube
 
 **💻 Programming & CS Fundamentals** → Strong base in Java, C++, C, OOP, and DSA for problem-solving and scalable solutions.
 
+## 🔬 Featured Projects & Research
+
+| Project | What it does | Links |
+|---|---|---|
+| **AIGC Detector** | Detects AI-generated images with a Swinv2 model on a cloud GPU, shows a heatmap of suspicious regions, verifies C2PA content credentials. Includes a 2-model benchmark (AUC 0.919 → 0.956) and an 8-page IEEE-style paper. | [Repo](https://github.com/REDOANUZZAMAN/aigc-detector) · [Paper](https://github.com/REDOANUZZAMAN/aigc-detector/blob/main/paper/main.pdf) |
+| **VeriDoc** | Insurance document fraud detection — image forensics, OCR, 20 consistency rules and cross-document checks combined into an explainable evidence record for human investigators. | [Repo](https://github.com/REDOANUZZAMAN/veridoc) · [Live](https://veridoc.rmaikr.top) |
+| **MedTok** | Research project: a medical multimodal tokenizer and unified token protocol, validated on MIMIC-IV. | [Repo](https://github.com/REDOANUZZAMAN/medtok) |
+| **MedCost** | Insurance cost predictor — 8 models compared with repeated cross-validation, gradient boosting, and calibrated 90% prediction ranges. | [Repo](https://github.com/REDOANUZZAMAN/medcost) |
+| **Coderr** | AI app builder — describe an app in plain words and get a working website. Web, desktop and Android apps. | [Live](https://coderr.site) · [Desktop](https://github.com/REDOANUZZAMAN/coderr-desktop-releases) · [Android](https://github.com/REDOANUZZAMAN/coderr-android-releases) |
+| **AgentFlow** | Chat-first AI agent builder for everyone. | [Repo](https://github.com/REDOANUZZAMAN/agentflow) · [Live](https://agentflow-lilac-seven.vercel.app) |
+| **Image Gen** | FLUX image generator — FastAPI frontend with a Modal GPU backend. | [Repo](https://github.com/REDOANUZZAMAN/image-gen) |
+
 ## 🚀 Tech Stack
 
 **Automation & AI**
